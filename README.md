@@ -1,12 +1,17 @@
-# React + Vite
+# Developer Portfolio – Agash JP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive and modern developer portfolio built using **React** and **Vite**. It showcases my skills, projects, experience, and contact information in a clean and user-friendly interface. The app is deployed on **Vercel** for fast and reliable hosting. It is structured using reusable components, styled via modular CSS, and optimized for performance.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+- React (JSX)
+- Vite
+- CSS Modules
+- Vercel (Deployment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Site
+https://portfolio-pwjh8q7wb-juscookins-projects.vercel.app
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Project Structure
+- `src/components/` – All UI components
+- `src/styles/` – App styles
+- `public/` – Static assets and HTML
